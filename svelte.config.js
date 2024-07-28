@@ -7,11 +7,12 @@ const config = {
 	kit: {
 		adapter: adapter(),
 		alias: {
-			$lib: 'src/lib',
+			
 			$blog: 'src/blog',
 			$blogPosts: 'src/blog/posts',
 			$blogImages: 'src/blog/images'		}
 	  },
+	 
   extensions: ['.svelte', '.md', '.svx'],
   preprocess: [
     vitePreprocess(),

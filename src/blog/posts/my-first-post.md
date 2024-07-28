@@ -1,0 +1,45 @@
+---
+title: My First Blog Post
+date: "2024-07-28"
+description: This is a sample blog post demonstrating mdsvex features
+tags: 
+  - svelte
+  - markdown
+  - mdsvex
+---
+
+<script>
+  import { onMount } from 'svelte';
+  import MyComponent from '$lib/MyComponent.svelte';
+  import { base } from '$app/paths';
+
+  let title;
+  let date;
+  let tagString;
+
+  onMount(() => {
+    title = $$props.title;
+    date = $$props.date;
+    tagString = $$props.tags.join(', ');
+  });
+</script>
+
+## Welcome to {title}
+
+Published on {date}
+
+## Introduction
+
+Welcome to my first blog post! This is an example of how to use mdsvex with SvelteKit.
+
+...
+
+## Images
+
+Here's how you can include an image:
+
+<img src="{base}/blog/images/img.webp" alt="Alt text" />
+
+## Conclusion
+
+That's it for this example post. Happy blogging with mdsvex and SvelteKit!
