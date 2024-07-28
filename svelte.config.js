@@ -1,4 +1,4 @@
-import adapter from '@sveltejs/adapter-auto';
+import adapter from '@sveltejs/adapter-static';
 import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
 import { mdsvex } from 'mdsvex';
 
@@ -6,21 +6,17 @@ import { mdsvex } from 'mdsvex';
 const config = {
 	kit: {
 		adapter: adapter(),
-		alias: {
-			
-			$blog: 'src/blog',
-			$blogPosts: 'src/blog/posts',
-			$blogImages: 'src/blog/images'		}
-	  },
-	 
-  extensions: ['.svelte', '.md', '.svx'],
-  preprocess: [
-    vitePreprocess(),
-    mdsvex({
-      extensions: ['.svelte','.md', '.svx'],
-    }),
-  ],
-  
+
+	},
+
+	extensions: ['.svelte', '.md', '.svx'],
+	preprocess: [
+		vitePreprocess(),
+		mdsvex({
+			extensions: ['.svelte', '.md', '.svx'],
+		}),
+	],
+
 };
 
 export default config;
