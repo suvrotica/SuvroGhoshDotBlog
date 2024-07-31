@@ -1,8 +1,8 @@
 <script lang="ts">
-    import BlogPost from './posts/my-first-post.svx';
+    import Post from './posts/my-first-post.svx';
   </script>
   
-  <BlogPost />
+  <Post />
   
   <style lang="postcss">
     :global(html) {
