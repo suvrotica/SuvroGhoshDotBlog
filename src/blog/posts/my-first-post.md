@@ -37,7 +37,7 @@ Welcome to my first blog post! This is an example of how to use mdsvex with Svel
 
 Here's how you can include an image:
 
-<img src="/images/img.webp" alt="Alt text" />
+<img src="/Images/img.webp" alt="Alt text" />
 
 ## Conclusion
 
