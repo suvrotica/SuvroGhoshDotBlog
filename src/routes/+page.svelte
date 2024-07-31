@@ -1,5 +1,5 @@
 <script lang="ts">
-    import BlogPost from './my-first-post.svx';
+    import BlogPost from './posts/my-first-post.svx';
   </script>
   
   <BlogPost />

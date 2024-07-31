@@ -1,3 +1,99 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+@layer utilities {
+    .padmar {
+        @apply p-1 m-1;
+    }
+
+    .noto {
+        font-family: 'Noto Sans Variable', sans-serif;
+    }
+
+    .textStyle {
+        @apply noto padmar text-base md:text-lg leading-loose tracking-tighter text-neutral-900 antialiased dark:text-neutral-100;
+    }
+
+    .radialDark {
+        background: radial-gradient(#333, #000);
+    }
+
+    .radialLight {
+        background: radial-gradient(#bbb, #fff);
+    }
+}
+
+
+@layer base {
+    html {
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+    }
+
+    body {
+        @apply padmar radialLight dark:radialDark text-neutral-950 dark:text-neutral-100;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    blockquote {
+        @apply textStyle font-thin tracking-tighter;
+    }
+
+    h1 {
+        @apply text-6xl md:text-7xl;
+    }
+
+    h2 {
+        @apply text-5xl md:text-6xl;
+    }
+
+    h3 {
+        @apply text-4xl md:text-5xl;
+    }
+
+    h4 {
+        @apply text-3xl md:text-4xl;
+    }
+
+    h5 {
+        @apply text-2xl md:text-3xl;
+    }
+
+    h6 {
+        @apply text-xl md:text-2xl;
+    }
+
+
+    p {
+        @apply pt-14 noto font-thin text-justify text-lg  tracking-tighter text-neutral-900 subpixel-antialiased dark:text-neutral-100 dark:antialiased first-letter:text-5xl    first-letter:float-left first-letter:mr-1 first-letter:leading-none;
+    }
+
+    figcaption {
+        @apply textStyle font-thin;
+    }
+
+
+
+}
+
+@font-face {
+    font-family: 'Noto Sans Variable';
+    src: url('/Fonts/Noto/NotoSans-VariableFont_wdth,wght.ttf') format('truetype-variations');
+    font-weight: 100 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noto Sans Variable';
+    src: url('/Fonts/Noto/NotoSans-Italic-VariableFont_wdth,wght.ttf') format('truetype-variations');
+    font-weight: 100 900;
+    font-style: italic;
+}
+
