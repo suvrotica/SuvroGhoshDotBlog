@@ -1,5 +1,4 @@
 ---
-
 title: My Thoughts on the Indian Psyche
 date: "2024-07-28"
 description: Reflections on the Indian psyche and my experiences
@@ -7,13 +6,15 @@ tags:
   - reflections
   - satire
   - culture
-
 ---
 
-# {title}
-## {description}
-## Tags {tags}
-Published on {date}
+<script lang="ts">
+import PostHeader from '$lib/PostHeader.svelte';
+</script>
+<PostHeader {title} {description} {tags} {date} />
+
+
+
 
 While it may be true that the drivel in this blog is often directed by the lava under the landscape, it is not a coincidence but a precondition for it. Imagine a sunny, windswept, clear sky day with joy and that sort of fare. Would you be likely to partake in the outdoors, or would you more likely decide to stay indoors on a clime much less salubrious and brood or rest? And rest, again, is the devil's workshop, as it says in the card.
 

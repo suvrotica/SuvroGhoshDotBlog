@@ -23,6 +23,7 @@
     .radialLight {
         background: radial-gradient(#bbb, #fff);
     }
+
 }
 
 
@@ -35,6 +36,7 @@
     body {
         @apply padmar radialLight dark:radialDark text-neutral-950 dark:text-neutral-100;
     }
+
 
     h1,
     h2,
@@ -72,7 +74,7 @@
 
 
     p {
-        @apply pt-14 noto font-thin text-justify text-lg  tracking-tighter text-neutral-900 subpixel-antialiased dark:text-neutral-100 dark:antialiased first-letter:text-4xl    first-letter:float-left first-letter:mr-1 first-letter:leading-none;
+        @apply pt-14 noto font-thin text-justify text-lg tracking-tighter text-neutral-900 subpixel-antialiased dark:text-neutral-100 dark:antialiased first-letter:text-4xl first-letter:float-left first-letter:mr-1 first-letter:leading-none;
     }
 
     figcaption {
@@ -85,15 +87,18 @@
     article,
     section,
     header,
-    nav
-   {
-      @apply padmar shadow-lg shadow-neutral-200 dark:shadow-neutral-950;
+    nav {
+        @apply padmar shadow-lg shadow-neutral-200 dark:shadow-neutral-950;
     }
-  img {
-    @apply float-left w-1/2 h-auto mt-14;
-  }
+
+    img {
+        @apply float-left w-1/2 h-auto mt-14;
+    }
+
 
 }
+
+
 
 @font-face {
     font-family: 'Noto Sans Variable';
@@ -108,4 +113,3 @@
     font-weight: 100 900;
     font-style: italic;
 }
-
