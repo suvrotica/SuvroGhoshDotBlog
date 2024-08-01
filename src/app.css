@@ -74,7 +74,7 @@
 
 
     p {
-        @apply pt-14 noto font-thin text-justify text-lg tracking-tighter text-neutral-900 subpixel-antialiased dark:text-neutral-100 dark:antialiased first-letter:text-4xl first-letter:float-left first-letter:mr-1 first-letter:leading-none;
+        @apply ml-4 mr-4 pt-14 noto font-thin text-justify text-lg tracking-tighter text-neutral-900 subpixel-antialiased dark:text-neutral-100 dark:antialiased first-letter:text-4xl first-letter:float-left first-letter:mr-1 first-letter:leading-none;
     }
 
     figcaption {
