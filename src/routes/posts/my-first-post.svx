@@ -13,7 +13,7 @@ import PostHeader from '$lib/PostHeader.svelte';
 </script>
 <PostHeader {title} {description} {tags} {date} />
 
-<img src="Images/f07b1107-c0a6-4ba0-adee-e62309f739a4.webp" />
+<img src="Pictures/f07b1107-c0a6-4ba0-adee-e62309f739a4.webp" />
 
 While it may be true that the drivel in this blog is often directed by the lava under the landscape, it is not a coincidence but a precondition for it. Imagine a sunny, windswept, clear sky day with joy and that sort of cheery fare. You'd be tempted to partake in the outdoors. And would you not more likely decide to stay indoors on a clime much less salubrious and brood or rest? And rest, again, is the devil's workshop, as it says in the card.
 
