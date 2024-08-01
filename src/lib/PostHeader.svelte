@@ -62,10 +62,10 @@
 	  }
 	
 	  .date-container {
-		@apply absolute top-0 right-0 flex;
+		@apply  top-0 right-0 flex;
 	  }
 	
 	  kbd.date {
-		@apply p-1 m-1 text-orange-800 dark:text-orange-100 bg-orange-100 dark:bg-orange-800  ;
+		@apply p-1 m-1 text-orange-800 dark:text-orange-100 bg-orange-100 dark:bg-orange-800 ml-2  mb-2 inline-block ;
 	  }
 	</style>
