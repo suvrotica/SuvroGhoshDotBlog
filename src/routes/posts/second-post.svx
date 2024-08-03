@@ -6,6 +6,7 @@ tags:
   - weather
   - satire
   - news
+published: true
 ---
 
 <script lang="ts">

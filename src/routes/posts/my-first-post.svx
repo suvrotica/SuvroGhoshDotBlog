@@ -6,6 +6,7 @@ tags:
   - reflections
   - satire
   - culture
+published: true
 ---
 
 <script lang="ts">
