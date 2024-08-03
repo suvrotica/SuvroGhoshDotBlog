@@ -1,0 +1,30 @@
+---
+title: Citizens of calcutta are chronically in shallow shit
+description: Citizens of calcutta are chronically in shallow shit
+date: "2024-08-04"
+tags:
+  - weather
+  - satire
+  - news
+---
+
+<script lang="ts">
+import PostHeader from '$lib/PostHeader.svelte';
+</script>
+<PostHeader {title} {description} {tags} {date} />
+
+<img src="Pictures/80bed191-90bc-4363-856c-d564e903892f.webp" alt="Citizens of calcutta are chronically in shallow shit"/>
+
+Citizens of Calcutta are chronically in shallow shit environmentally, and acutely in deep shit personally, but the latter is of no concern in this post. The thing is, every monsoon, it's almost like a ritual now that I pen something inked in diarrhea ink because I don't do well stomach-wise as the rainwater washes the germs down to the aquifer water table level or whatever it's called. But since I installed an Urban Company water filter, I haven't seen my asshole suffer so much, and hence that need wasn't felt except when I looked at the news on YouTube. The usual channel fatties were shaking their podgy fists and shrieking at the top of their belligerent scale.
+
+Interestingly, the real estate on the screen has shrunk, and you now need multitasking to figure out what's happening in each of the smaller windows. To make things more challenging, there are glaring watermarks in garish colors all over the smaller screen, in addition to scrolling gaudy marquee animations in big lettering generally saying things like BREAKING or LIVE, even though the event is as stale as shit annotated FRESH by indelible marker ink by the owner of the turd now read after the fact. Really I hate to break this news to the world but there's nothing worth breaking anymore, we know it's all the same—mastication, deglutition and excretion, no mystery, just the way you wipe your asshole is different. And also the screen is just way too busy for an old man like me to make out, which is why I am planning to buy a bigger screen. This 14-inch screen is too small for the bouncer-sized female anchors to fit with their screens and shit.
+
+But anyhow, after I watched what the fatsoes had to show, it became clear that citizens who stepped out in certain zones of the city were dealing with shallow shit. And if we dissect the word shit, I can't really be sure who fathered it because it's a potluck of all the dog, cat, bird, cow, goat, insect, and pest feces. Yes, I didn't forget humans; they're included in the pest category respectfully. And shallow because knee-deep, or a depth at which you can see your schlong and balls float in India (also known as waist-deep in civilizations elsewhere), is considered shallow. In India, deep is when the water is well over your silly head and there's no chance to surface, popularly also called drowning or less popularly dying. Example Wayanad in Kerala.
+
+It was badly hit, and it is only getting the premium coverage because the Gandhis are there. Normally, the media coverage of disasters, not to mention government actions both before and after, isn't adequate unless the people are camera-friendly, influential, controversial, or somehow instrumental in promoting TRP. Disaster has become the stationery of entertainment, and it goes well with popcorn and butter. Nobody cares about anybody else until they are wallowing in shoulder-deep feces of adversity themselves.
+
+There need to be better laws to stop unplanned constructions and wanton exploitation of nature to the point of hurt. Systems to provide hyperlocal forecasts timely enough, and compensations that can restore the poor back to at least their level of poverty and the middle class, not force their extinction, need to be in place. But like I said, this isn't likely to happen in this India. Even expecting this is like unnecessarily breathing someone else's fart and suffocating needlessly from bullshit.
+
+But in Calcutta the rain so far has been rain, not the exotic atmospheric rivers that destroyed Wayanad in Kerala. Nope, nothing exciting ever happens here. It's always shallow shit, cheap second-rate bullshit of some sort that doesn't kill you but keeps you alive, limping, gaunt, and bare-bones, which contrasts nicely with the entitlement of joy that the city has picked up from a Frenchman's ass. But what do I know? As I stare at the pothole right across the street, I see it matches me. We are both full of asymmetry, full of holes of various sizes, and full of shit. Anyone who meets this pothole or meets me will have the same reaction: one of violent nausea and a disagreeable taste in the mouth.
+
+And that's how representative I am as a Bengali. This state is full of people like me, nasty as shit, motherfucking lunatic fucks who don't have a life, never had, and never will. Retarded wankers that just daydream about significance and trivium but don't have either the brains or balls to engage.
