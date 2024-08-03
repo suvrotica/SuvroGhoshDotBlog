@@ -9,7 +9,8 @@ const config = {
 			pages: 'public',
 			assets: 'public',
 			fallback: null,
-			precompress: false
+			precompress: false,
+			strict: false
 		  })
 
 	},
